@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Zoo
 
 ![](/example.png)
