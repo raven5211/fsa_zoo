@@ -52,6 +52,4 @@ Here are the types of animals at the zoo, along with their names:
 ## Submission
 
 Submit the link to your public GitHub repository.
-=======
-# fsa_block04_zoo
-'Zoo' workshop from block 4 of Fullstack Academy's web development coding bootcamp
+
