@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/zoo.git)
+
+---
+
 # Zoo
 
 ![](/example.png)
