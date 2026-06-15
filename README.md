@@ -2,7 +2,7 @@
 
 [source repo](https://github.com/FullstackAcademy/zoo.git)
 
-[website](zoo-raven5211.netlify.app)
+[website](https://www.zoo-raven5211.netlify.app)
 
 ---
 
